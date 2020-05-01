@@ -15,13 +15,10 @@ weight = 14  # Order that this section will appear.
     <div class="video-container">
       <div class="color-overlay"></div>
         <video autoplay loop muted>
-          <source src="static/img/video.mp4" type="video/mp4">
+          <source src="video.mp4" type="video/mp4">
         </video>
       </div>
     </div>
-   <div style="height:400px;width:100%">
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat quod soluta natus. Magni tempora animi illo ea accusamus ex deserunt odio facere deleniti molestiae qui eaque in illum praesentium sunt iste accusantium nobis repellat aspernatur alias, architecto consectetur voluptate dolore! Saepe, enim rem nam dolorem tempore blanditiis perspiciatis repellat architecto.</p>
-   </div>
   
 <style>
 .section {
