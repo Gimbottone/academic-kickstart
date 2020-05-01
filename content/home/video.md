@@ -5,4 +5,4 @@ weight = 14  # Order that this section will appear.
 
 
 [![Alternate Text]({"static/img/image.jpg"})]({"static/img/video.mp4"} "Link Title")
-# {{< video library = "1" src="video.mp4" controls ="no" >}}
+
