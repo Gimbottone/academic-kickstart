@@ -11,12 +11,8 @@ subtitle = ""
 
 +++
 
-<video width="320" height="240" autoplay="" loop="" muted="">
+<video width="320" height="240" autoplay="Yes" loop="Yes" muted="Yes">
   <source src="video.mp4" type="video/mp4">
 </video>
 
-<div class="row post-image-bg" markdown="0">
-  <video width="99%" height="540" autoplay="Yes" loop="Yes" muted="Yes" markdown="0">
-    <source src="/static/img/video.mp4" type="video/mp4" markdown="0">
-  </video>
-</div>
+
