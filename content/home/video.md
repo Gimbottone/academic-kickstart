@@ -1,8 +1,5 @@
 +++
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
+# A Demo Video section created with the Blank widget.
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -19,4 +16,4 @@ subtitle = ""
 
 +++
 
-[![Alternate Text]({static/img/image.jpg})]({static/img/video.mp4} "Link Title")
+[![Alternate Text]({"static/img/image.jpg"})]({static/img/video.mp4} "Link Title")
