@@ -13,13 +13,6 @@ subtitle = ""
 
 
 
-<div id="video-bg">
-  <video controls>
-    <!-- Default video source: -->
-    <source type="video/mp4" src="video.mp4"
-            media="(orientation:landscape)">
-  </video>
-  <!--
-    Buttons or metadata go here
-  -->
+<div>
+  <iframe src="https://www.youtube.com/embed/w7Ap0k7qp2k?autoplay=1&loop=1&rel=0&showinfo=0&controls=0&autohide=1" frameborder="0" width=100% height=540></iframe>
 </div>
