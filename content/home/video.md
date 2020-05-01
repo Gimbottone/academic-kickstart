@@ -15,7 +15,7 @@ weight = 14  # Order that this section will appear.
     <div class="video-container">
       <div class="color-overlay"></div>
         <video autoplay loop muted>
-          <source src="video.mp4" type="video/mp4">
+          <source src="static/img/video.mp4" type="video/mp4">
         </video>
       </div>
     </div>
