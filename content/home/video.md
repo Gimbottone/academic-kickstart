@@ -12,7 +12,7 @@ subtitle = ""
 +++
 
 <video width="320" height="240" controls muted="Yes">
-  <source src="video.mp4" type="video/mp4">
+  <source src="/static/img/video.mp4" type="video/mp4">
 </video>
 
 
