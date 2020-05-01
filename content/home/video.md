@@ -13,7 +13,7 @@ subtitle = ""
 
 
 
-div class="section">
+<div class="section">
 
         <h1>Welcome To Paradise</h1>
 
