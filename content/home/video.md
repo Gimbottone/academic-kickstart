@@ -11,8 +11,11 @@ subtitle = ""
 
 +++
 
-<div markdown="0">
-  <video width="99%" height="540" autoplay loop muted markdown="0" id="MyVideo">
-    <source src="static/img/video.mp4" type="video/mp4" markdown="0">
-  </video>
-</div>
+<body>
+  <header>
+    <iframe src="https://www.youtube.com/embed/w7Ap0k7qp2k?autoplay=1&loop=0&rel=0&showinfo=0&controls=0&autohide=1" frameborder="0" class="video__inner"></iframe>
+  </header>
+  
+  <main></main>
+  
+</body>
