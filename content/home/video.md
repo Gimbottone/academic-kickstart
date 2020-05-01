@@ -11,5 +11,5 @@ subtitle = ""
   columns = "1"
 
 [design.background]
-[![Alternate Text]({"static/img/image.jpg"})]({"static/img/video.mp4"} "Link Title")
+[![Alternate Text]({static/img/image.jpg})]({static/img/video.mp4} "Link Title")
 
