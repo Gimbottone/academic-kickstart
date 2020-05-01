@@ -11,7 +11,7 @@ subtitle = ""
 
 +++
 
-<video width="320" height="240" controls muted="Yes">
+<video width="320" height="240" autoplay loop muted>
   <source src="/static/img/video.mp4" type="video/mp4">
 </video>
 
