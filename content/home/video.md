@@ -9,6 +9,8 @@ weight = 15  # Order that this section will appear.
 title = "The spinning planet"
 subtitle = ""
 
++++
+
 <div class="row post-image-bg" markdown="0">
     <video width="99%" height="540" autoplay loop muted markdown="0">
         <source src="/static/img/video.mp4" type="video/mp4" markdown="0" >
