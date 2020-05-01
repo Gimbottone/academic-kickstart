@@ -22,18 +22,18 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "navy"
+  # color = "navy"
   
   # Background gradient.
   # gradient_start = "LightBlue"
   # gradient_end = "LightBlue"
   
   # Background image.
-  # image = "image.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+   image = "image.jpg"  # Name of image in `static/img/`.
+   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+   image_position = "center"  # Options include `left`, `center` (default), or `right`.
+   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -65,7 +65,3 @@ For inspiration, check out [the Markdown files](https://sourcethemes.com/academi
   - [Become a backer on Patreon](https://www.patreon.com/cushen)
   - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
   - [Wear the T-shirt](https://academic.threadless.com/)
-
-
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
