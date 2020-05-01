@@ -11,5 +11,8 @@ subtitle = ""
 
 +++
 
-
-![](video.mp4)
+<div class="row post-image-bg" markdown="0">
+  <video width="99%" height="540" autoplay loop muted markdown="0" id="MyVideo">
+    <source src="/static/img/video.mp4" type="video/mp4" markdown="0">
+  </video>
+</div>
