@@ -28,7 +28,6 @@ weight = 14  # Order that this section will appear.
   display: flex;
   align-items: center;
   justify-content: center;
-  overflow: hidden;
 }
 
 .section h1 {
