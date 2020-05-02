@@ -28,8 +28,9 @@ weight = 14  # Order that this section will appear.
     position:relative;
     text-align: center;
     font-family: monospace;
-    color: #ffffff;
+    color: white;
     top: 100px;
+    margin-left:-50px;
 }
 .welcome-msg h1
 {
