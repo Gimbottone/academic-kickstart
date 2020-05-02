@@ -8,4 +8,4 @@ weight = 14  # Order that this section will appear.
 
 +++
 
-<iframe width="720" height="480" src="static/img/clouds.mp4" align="middle" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="480" src="static/img/clouds.mp4" align="middle" frameborder="0"></iframe>
