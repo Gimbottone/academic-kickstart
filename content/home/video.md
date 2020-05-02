@@ -10,7 +10,7 @@ weight = 14  # Order that this section will appear.
 
 <body>
         <section class="header">
-            <video autoplay loop class="video-background" muted plays-inline>
+            <video autoplay loop class="video-background" muted plays-inline controls>
                 <source src="static/img/clouds.mp4" type="video/mp4">
             </video>
             <div class="welcome-msg">
