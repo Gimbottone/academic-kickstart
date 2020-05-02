@@ -17,11 +17,6 @@ weight = 14  # Order that this section will appear.
                 <h1>WELCOME HOME!</h1>
             </div>
         </section>
-        <section>
-            <div>
-                <p>Lorem ipsum..</p>
-            </div>
-        </section>
 </body>
 
 <style>
