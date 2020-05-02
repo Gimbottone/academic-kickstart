@@ -9,7 +9,8 @@ weight = 14  # Order that this section will appear.
 +++
 <style>
 .wrapper {
-    height:90vh;
+    width:100vh;
+    height:auto;
 }
 .wrapper iframe {
     position:absolute;
