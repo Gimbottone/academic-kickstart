@@ -8,4 +8,4 @@ weight = 14  # Order that this section will appear.
 
 +++
 
-{{< youtube id="7w6MjJ7Cz8U" autoplay="true" controls="false" muted="true">}}
+{{< youtube id="7w6MjJ7Cz8U" autoplay="true" controls="false" mute="true" loop="true">}}
