@@ -8,52 +8,73 @@ weight = 14  # Order that this section will appear.
 
 +++
 
+<body>
+        <section class="header">
+            <video autoplay loop class="video-background" muted plays-inline>
+                <source src="Video/clouds.mp4" type="video/mp4">
+            </video>
+            <div class="welcome-msg">
+                <h1>WELCOME HOME!</h1>
+            </div>
+        </section>
+        <section>
+            <div>
+                <p>Lorem ipsum..</p>
+            </div>
+        </section>
+</body>
 
-
-<div class="section">
-  <h1>Welcome To Paradise</h1>
-    <div class="video-container">
-      <div class="color-overlay"></div>
-        <video autoplay loop muted>
-          <source src="static/img/clouds.mp4" type="video/mp4">
-        </video>
-      </div>
-    </div>
-  
 <style>
-.section {
-  position: relative;
-  width: 100%;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  *
+{
+    margin:0;
+    padding:0;
 }
-
-.section h1 {
-  text-align: center;
-  font-size: 6rem;
-  font-family: "Cookie";
-  padding: 20px;
-  margin: 15px;
-  z-index: 1;
-  opacity: 0.7;
+.header
+{
+    background:rgba(0,0,100,0.4);
+    height:100vh;
 }
-
-.video-container {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
+.video-background
+{
+    position:absolute;
+    right:0;
+    bottom:0;
+    min-width:100%;
+    max-height:auto;
+    width:100%;
+    height:100%;
+    z-index:-1;
 }
-
-.color-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  background-color: lightblue;
-  width: 100%;
-  height: 100vh;
-  opacity: 0.5;
+@media (min-aspect-ratio:16/9)
+{
+    .video-background
+    {
+        width: 100%;
+        height:auto;
+    }
+}
+@media (max-aspect-ratio:16/9)
+{
+    .video-background
+    {
+        width: 100%;
+        height:auto;
+    }
+}
+.welcome-msg
+{
+    position:relative;
+    text-align: center;
+    font-family: monospace;
+    color: #fff;
+    top: 150px;
+}
+.welcome-msg h1
+{
+    font-size: 80px;
+    font-weight: 100;
+    letter-spacing: 5px;
+    margin-bottom: 30px;
 }
 </style>
