@@ -8,4 +8,4 @@ weight = 14  # Order that this section will appear.
 
 +++
 
-{{< video src="static/img/clouds.mp4" autoplay="true" loop="true" allow_fullscreen >}}
+{{< video src="static/img/clouds.mp4" autoplay="true" loop="true" >}}
