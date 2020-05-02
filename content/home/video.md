@@ -10,7 +10,7 @@ weight = 14  # Order that this section will appear.
 <style>
 .wrapper {
     position: relative;
-    padding-bottom: 0; /* 16:9 */
+    padding-bottom: 56.25%; /* 16:9 */
     padding-top: 25px;
     height: 0;
 }
