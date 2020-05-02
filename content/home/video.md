@@ -21,10 +21,10 @@ weight = 14  # Order that this section will appear.
     width:100%;
     height:110%;
     z-index:-1;
-    margin-bottom:-100px;
+    margin-bottom:-30px;
 }
 </style>
 <div class="wrapper">
-  <iframe src="https://www.youtube.com/embed/7w6MjJ7Cz8U?muted=1&autoplay=1&mute=1" allowfullscreen="true" frameborder="0"></iframe>
+  <iframe src="https://www.youtube.com/embed/7w6MjJ7Cz8U?muted=1&autoplay=1&mute=1&controls=0" allowfullscreen="true" frameborder="0"></iframe>
 </div>
 
