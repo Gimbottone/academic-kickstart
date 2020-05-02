@@ -28,9 +28,7 @@ weight = 14  # Order that this section will appear.
     position:relative;
     text-align: center;
     font-family: monospace;
-    color: white;
     top: 100px;
-    margin-left:-50px;
 }
 .welcome-msg h1
 {
@@ -43,7 +41,7 @@ weight = 14  # Order that this section will appear.
 <section class="wrapper">
   <iframe src="https://www.youtube.com/embed/7w6MjJ7Cz8U?muted=1&autoplay=1&mute=1&controls=0" allowfullscreen="true" frameborder="0"></iframe>
   <div class="welcome-msg">
-    <h1>WELCOME HOME!</h1>
+    <h1 style="color:white">WELCOME HOME!</h1>
   </div>
 </section>
 
