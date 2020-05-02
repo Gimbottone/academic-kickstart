@@ -37,7 +37,7 @@ weight = 15  # Order that this section will appear.
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["50%", "0", "50%", "0"]
+  padding = ["300px", "0", "300px", "0"]
 
 [advanced]
  # Custom CSS. 
