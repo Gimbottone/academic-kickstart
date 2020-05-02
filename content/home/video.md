@@ -28,7 +28,7 @@ weight = 14  # Order that this section will appear.
 }
 @media (min-aspect-ratio:16/9)
 {
-    .wrapper
+    .wrapper iframe
     {
         width: 100%;
         height:auto;
