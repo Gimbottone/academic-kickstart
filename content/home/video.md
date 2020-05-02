@@ -9,14 +9,14 @@ weight = 14  # Order that this section will appear.
 +++
 <style>
 .wrapper {
-    position:relative;
+    position:absolute;
     right:0;
     bottom:0;
     padding:25px;
     min-width:100%;
     max-height:100%;
     width:100%;
-    height:100%;
+    height:1000px;
     z-index:-1;
 }
 .wrapper iframe {
@@ -24,7 +24,7 @@ weight = 14  # Order that this section will appear.
     top: 0;
     left: 0;
     width: 100%;
-    height: 100vh;
+    height: 1000px;
 }
 </style>
 <div class="wrapper">
