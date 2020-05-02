@@ -12,8 +12,9 @@ weight = 14  # Order that this section will appear.
     position:absolute;
     right:0;
     bottom:0;
+    padding:25px;
     min-width:100%;
-    max-height:auto;
+    max-height:100%;
     width:100%;
     height:100%;
     z-index:-1;
