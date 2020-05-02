@@ -21,4 +21,4 @@ weight = 14  # Order that this section will appear.
     </iframe>
 </div>
 
-{{< youtube 7w6MjJ7Cz8U autoplay="true">}}
+{{< youtube 7w6MjJ7Cz8U "16:9">}}
