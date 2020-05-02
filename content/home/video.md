@@ -13,7 +13,7 @@ weight = 14  # Order that this section will appear.
     padding-bottom: 56.25%; /* 16:9 */
     padding-top: 25px;
     height: 0;
-    width:100%;
+    width:100vh;
 }
 .wrapper iframe {
     position: absolute;
