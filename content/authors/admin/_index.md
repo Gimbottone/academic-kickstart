@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Gimbo Ottone
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Junior Web Designer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Sticazzi University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include chocolate, vanilla and mortal diseases.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Chocolate
+- Vanilla
+- Murder
 
 education:
   courses:
