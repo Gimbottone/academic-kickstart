@@ -9,6 +9,8 @@ weight = 14  # Order that this section will appear.
 +++
 <style>
 .wrapper {
+    margin:0;
+    padding:0;
     width:100vh;
     height:400px;
 }
