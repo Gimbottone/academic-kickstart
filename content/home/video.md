@@ -23,8 +23,27 @@ weight = 14  # Order that this section will appear.
     z-index:-1;
     margin-bottom:-30px;
 }
+ .welcome-msg
+{
+    position:relative;
+    text-align: center;
+    font-family: monospace;
+    color: #fff;
+    top: 150px;
+}
+.welcome-msg h1
+{
+    font-size: 80px;
+    font-weight: 100;
+    letter-spacing: 5px;
+    margin-bottom: 30px;
+}
 </style>
-<div class="wrapper">
+<section class="wrapper">
   <iframe src="https://www.youtube.com/embed/7w6MjJ7Cz8U?muted=1&autoplay=1&mute=1&controls=0" allowfullscreen="true" frameborder="0"></iframe>
-</div>
+  <div class="welcome-msg">
+    <h1>WELCOME HOME!</h1>
+  </div>
+</section>
+
 
