@@ -22,6 +22,7 @@ weight = 14  # Order that this section will appear.
     height:100%;
     z-index:-1;
     margin-bottom:-20px;
+    margin-top: -20px;
 }
 </style>
 <div class="wrapper">
